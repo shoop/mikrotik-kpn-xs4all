@@ -15,7 +15,7 @@
 - Provide home-local DNS service according to RFC 8375.
 
 ## Usage
-The configuration below is in order of /export . Note that re-ordering
+The configuration is in order of /export . Note that re-ordering
 may mess with the ability to reload this configuration.
 
 Be sure to replace all parameters, enclosed in << >> .
